@@ -1,7 +1,7 @@
 | **Command** | **Description** |
 | --------------|-------------------|
 | `git config --global user.name "Your Name"` | Set your Git username(github name) |
-| `git config --global user.email "your.email@example.com"` | your Git email |
+| `git config --global user.email "your.email@example.com"` | Set your Git email |
 | `git config --global user.name` | Check the current logged-in user |
 | `git config --global user.email` | Check the current logged-in user email |
 | `git status` | Check the status of the working directory |
